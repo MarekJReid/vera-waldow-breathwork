@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.12.1",
+    "@formkit/auto-animate": "^0.7.0",
+    "@use-gesture/react": "^10.2.18",
+    "contentful": "^9.1.34",
+    "dotenv": "^10.0.0",
+    "graphql": "^16.6.0",
+    "graphql-request": "^4.3.0",
+    "gsap": "^3.11.0",
     "next": "12.3.0",
+    "next-seo": "^5.4.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.5"
   },
   "devDependencies": {
     "eslint": "8.23.0",
